@@ -1,0 +1,10 @@
+C:\Users\burak\source\repos\NorthwindWinApp\NorthwindWinApp\bin\Debug\NorthwindWinApp.exe.config
+C:\Users\burak\source\repos\NorthwindWinApp\NorthwindWinApp\bin\Debug\NorthwindWinApp.exe
+C:\Users\burak\source\repos\NorthwindWinApp\NorthwindWinApp\bin\Debug\NorthwindWinApp.pdb
+C:\Users\burak\source\repos\NorthwindWinApp\NorthwindWinApp\obj\Debug\NorthwindWinApp.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\NorthwindWinApp\NorthwindWinApp\obj\Debug\NorthwindWinApp.Properties.Resources.resources
+C:\Users\burak\source\repos\NorthwindWinApp\NorthwindWinApp\obj\Debug\NorthwindWinApp.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\NorthwindWinApp\NorthwindWinApp\obj\Debug\NorthwindWinApp.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\NorthwindWinApp\NorthwindWinApp\obj\Debug\NorthwindWinApp.exe
+C:\Users\burak\source\repos\NorthwindWinApp\NorthwindWinApp\obj\Debug\NorthwindWinApp.pdb
+C:\Users\burak\source\repos\NorthwindWinApp\NorthwindWinApp\obj\Debug\NorthwindWinApp.NorthwindApp.resources
